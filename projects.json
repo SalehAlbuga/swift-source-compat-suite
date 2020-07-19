@@ -47,8 +47,8 @@
   "maintainer": "salehalbuga@outlook.com",
   "compatibility": [
     {
-      "version": "5.2.4",
-      "commit": "0bab712aea8f0eb74f3acc303d96857f697a98d8"
+      "version": "5.2",
+      "commit": "443e9a41d1a7c1fcae280490144fcbf8461d3499"
     }
   ],
   "platforms": [
